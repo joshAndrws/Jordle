@@ -1,3 +1,48 @@
+#please dont look spoioeler blocker #please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+#please dont look spoioeler blocker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 word_list_wrong = ['troot','union','barbaque','desise','gulubal','pinisulas','upstait','kuntuky','greatfull','Quite ']
 word_list_right = ['trout','onion','barbeque','disease','gullible','peninsulas','upstate','kentucky','grateful','Quiet']
 user_list_rightmaybey = []
